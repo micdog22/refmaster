@@ -1,4 +1,4 @@
-# RefMaster — Reference Matching (EQ Curve + LUFS)
+# RefMaster - Reference Matching (EQ Curve + LUFS)
 
 RefMaster aprende uma curva de EQ a partir de uma faixa de referência e a aplica na sua mix, além de alinhar loudness para um alvo LUFS. Gera relatório com curva aprendida e estatísticas de loudness.
 
